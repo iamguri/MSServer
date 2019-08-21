@@ -1,0 +1,70 @@
+                                                                SUMMARY
+                                                                
+Managing Enterprise Lan is a project in which we will manage local Area Network with the help of Microsoft® Windows server 2008 and other operating systems.
+Managing Enterprise Lan is A Project in Which We Will Manage Dhcp server in the network With The Help Of Microsoft® Windows Server 2008 And Other Operating Systems. In This, We Can Manage Our Network With Centralized Administration Called Active Directory Domain Services.
+ We Will Also Discuss Other Aspects of our shares like normal shares and default shares, default share name and its access methods.
+How to create shares, how to manage shares, Share folder management console and its different containers. What is the use of home directory? How it mapped with user account. How it act as a centralized data storage mechanism.     
+Active Directory Domain Service Is A Shared Distributed Directory Service That Is Included Within Microsoft® Windows Server 2008 And Microsoft Windows 2012 Server Operating System. 
+We also discuss new sharing concept of Access based enumeration. How it works. What is the use of access based enumeration.
+How it helps to hide sensitive information from unauthorized users.
+What is the role of NTFS permission with Access based enumeration.
+
+                                                        OBJECTIVE OF TRAINING & PROJECT
+                                                        
+The Microsoft Certified Systems Engineer (MCSE) certification certifies a user's knowledge in system administration of Microsoft Windows Operating Systems . The Windows Server 2003 MCSE is achieved upon passing seven networking system exams, a client and server operating system exams. The Windows Server 2003 MCSE title is granted after taking 7 exams. 
+MCSE is available as "MCSE on Windows 2012 R2" and ".  There are two specializations for MCSE: Messaging (Microsoft Exchange Server) and Security (Internet Security Acceleration).
+Whereas the MCSE is supposed to certify a person's ability to "plan, design, and implement Microsoft Windows server solutions and architectures in medium- to large-sized companies", the MCSE certifies a holder's ability to "implement, manage, and maintain the typically complex computing environment of medium- to large-sized companies".
+Now as far as the project is concerned, The Microsoft® Windows® 2003 Managing Enterprise Lan, gives administrators the ability to deploy Directory services throughout the enterprise for centralize management.
+
+Now as far as the project is concerned, The Microsoft® Windows® 2008/2012 R2 Active directory feature, gives administrators the ability to deploy Directory services throughout the enterprise for centralize management.
+
+
+                                                        HARDWARE & SOFTWARE REQUIREMENTS
+
+                          Component	Minimum Requirements	                            Recommended Requirements
+                          Processor	1.4 GHz	                                          2 GHz or faster
+                          Memory	512 MB RAM	                                        2 GB RAM or greater
+                          Available Disk Space	32 GB	                                40 GB or greater
+                          Optical Drive	DVD-ROM                                       drive	DVD-ROM drive
+                          Display	Super VGA (800x600) monitor	                        XGA (1024x768) monitor
+                          Operating System	Microsoft Server OS 2008 R2 	            Microsoft Server OS 2012 R2.
+                          
+                        
+The Steps needs to follow are explained below and the recomended screen shots are provided under screenshot folder.
+
+Step 1:
+Installation of ADDS Binaries
+                              Go To: Server Manager> Manage > Add Roles and Features
+
+Step 2:
+Promoting the Server as Domain Controller.
+                              After ADDS Binary installation Click on “Promote this server to a domain controller”. 
+Step 3:
+Configuring Active Directory Console.
+                              Go To: Tool> Active Directory Users and Computers
+Step 4:
+Installation of DHCP Server.
+                              Go to Server Manager > Manage > Add Roles and Features> Select CheckBox of DHCP Server.
+Step 5:
+Creating Scopes on our Domain Controller.
+
+Step 6:                       Create Scope, Server Manager > Tools > DHCP > Domain Name > IPv4 > New Scope.
+Configuring the DHCP Server.
+                              Go To Server Manager > Tools > DHCP > Domain Name > IPv4 > New Scope.
+                              and provide all the essential details like ip addresses etc.
+Step 7:
+Applying Advanced features like
+Note: these all settings are available on DHCP Application
+A. Exclution Range
+B. Reservation.
+C. Lease Duration.
+etc.
+
+Note:
+Server OS:  MS Server 2012R2.
+Client OS:  Windows 10.
+Virtual Machine Software: VMWare 12.
+
+I am thankfull to my trainer for training me and helped me to make this project.
+
+
