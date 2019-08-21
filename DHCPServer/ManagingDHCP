@@ -1,13 +1,13 @@
                                                                 SUMMARY
                                                                 
 Managing Enterprise Lan is a project in which we will manage local Area Network with the help of Microsoft® Windows server 2008 and other operating systems.
-Managing Enterprise Lan is A Project in Which We Will Manage Dhcp server in the network With The Help Of Microsoft® Windows Server 2008 And Other Operating Systems. In This, We Can Manage Our Network With Centralized Administration Called Active Directory Domain Services.
- We Will Also Discuss Other Aspects of our shares like normal shares and default shares, default share name and its access methods.
-How to create shares, how to manage shares, Share folder management console and its different containers. What is the use of home directory? How it mapped with user account. How it act as a centralized data storage mechanism.     
+Managing Enterprise Lan is A Project in Which We Will Manage DHCP server in the network With The Help Of Microsoft® Windows Server 2008 And Other Operating Systems. in This, We Can Manage Our Network With Centralized Administration Called Active Directory Domain Services.
+ We Will Also Discuss Other Aspects of our shares like normal shares and default shares, default share name, and its access methods.
+How to create shares, how to manage shares, Share folder management console and its different containers. What is the use of home directory? How it mapped with the user account. How it act as a centralized data storage mechanism.     
 Active Directory Domain Service Is A Shared Distributed Directory Service That Is Included Within Microsoft® Windows Server 2008 And Microsoft Windows 2012 Server Operating System. 
-We also discuss new sharing concept of Access based enumeration. How it works. What is the use of access based enumeration.
+We also discuss new sharing concept of Access-based enumeration. How it works. What is the use of access-based enumeration?
 How it helps to hide sensitive information from unauthorized users.
-What is the role of NTFS permission with Access based enumeration.
+What is the role of NTFS permission with Access-based enumeration?
 
                                                         OBJECTIVE OF TRAINING & PROJECT
                                                         
@@ -21,16 +21,16 @@ Now as far as the project is concerned, The Microsoft® Windows® 2008/2012 R2 A
 
                                                         HARDWARE & SOFTWARE REQUIREMENTS
 
-                          Component	Minimum Requirements	                            Recommended Requirements
-                          Processor	1.4 GHz	                                          2 GHz or faster
-                          Memory	512 MB RAM	                                        2 GB RAM or greater
-                          Available Disk Space	32 GB	                                40 GB or greater
-                          Optical Drive	DVD-ROM                                       drive	DVD-ROM drive
-                          Display	Super VGA (800x600) monitor	                        XGA (1024x768) monitor
-                          Operating System	Microsoft Server OS 2008 R2 	            Microsoft Server OS 2012 R2.
+                          Component    Minimum Requirements                                Recommended Requirements
+                          Processor    1.4 GHz                                              2 GHz or faster
+                          Memory    512 MB RAM                                            2 GB RAM or greater
+                          Available Disk Space    32 GB                                    40 GB or greater
+                          Optical Drive    DVD-ROM                                       drive    DVD-ROM drive
+                          Display    Super VGA (800x600) monitor                            XGA (1024x768) monitor
+                          Operating System    Microsoft Server OS 2008 R2                 Microsoft Server OS 2012 R2.
                           
                         
-The Steps needs to follow are explained below and the recomended screen shots are provided under screenshot folder.
+The Steps needs to follow are explained below and the recommended screenshots are provided under the screenshot folder.
 
 Step 1:
 Installation of ADDS Binaries
@@ -65,6 +65,6 @@ Server OS:  MS Server 2012R2.
 Client OS:  Windows 10.
 Virtual Machine Software: VMWare 12.
 
-I am thankfull to my trainer for training me and helped me to make this project.
+I am thankful to my trainer for training me and helped me to make this project.
 
 
